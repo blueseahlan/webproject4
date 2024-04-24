@@ -6,6 +6,10 @@
 ![image](https://github.com/blueseahlan/webproject4/assets/32809840/410f8ea3-d93c-4d11-8bce-7296541e47e1)
 
 ## #2Setting up Development Environment using Docker 
+（e2fd9ed0fed451d6616d06c8ddee3b8b242acb7b743d477137407e43606a1932）
+![image](https://github.com/blueseahlan/webproject4/assets/32809840/33262dcd-367e-4428-b334-a6f0ffe3b802)
+![image](https://github.com/blueseahlan/webproject4/assets/32809840/3f9f10d9-4f6c-4830-9079-8fa08f166dda)
+![image](https://github.com/blueseahlan/webproject4/assets/32809840/b7fa81aa-8efb-495d-9dca-ab2706cba903)
 
 
 
