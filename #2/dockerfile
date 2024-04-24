@@ -1,0 +1,7 @@
+
+FROM python:3.13.0a6-bookworm
+MAINTAINER Lan Hai
+ADD . /app
+WORKDIR /app
+COPY . .
+CMD [ "python3","main.py" ]
