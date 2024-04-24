@@ -1,0 +1,7 @@
+
+FROM windows10x64/docker101tutorial
+MAINTAINER Lan Hai
+ADD . /app
+WORKDIR /app
+COPY . .
+CMD [ "cat","test" ]
